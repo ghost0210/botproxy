@@ -295,9 +295,9 @@ def filtrar_text(update, context):
 # TOKEN
 if __name__ == '__main__':
     if dev == 1 :
-        administrador = 'AresDza'
-        bot_token = '5225993117:AAHjaij0FijHKLHlvCIwPVEdKrQlICApRvo'
-        user_id = 1307228755
+        administrador = 'Ghosthell0210'
+        bot_token = '5749646038:AAF-L1Vq770jM2Glc05q0ZdfUTjnc4dSyts'
+        user_id = 1981484200
     else :
         administrador = os.environ.get('administrador')
         bot_token = os.environ.get('bot_token')
